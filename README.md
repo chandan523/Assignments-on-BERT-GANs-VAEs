@@ -20,8 +20,10 @@ upload it externally while doing this assignment.
 
 First, reproduce the results for 100 epochs. Then reduce the epoch value to 50. State your
 following observations:
+
 (i) Do you observe any change in the training results according to their values in latent space
 vectors in comparison to the results obtained in 100 epochs?
+
 (ii) Do you observe any change in the scatter plot of training data on the basis of their values of
 corresponding latent dimensions generated from the encoder in comparison to the results
 obtained in 100 epochs?
